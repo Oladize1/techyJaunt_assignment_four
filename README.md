@@ -48,8 +48,6 @@ https://documenter.getpostman.com/view/23438119/2sBXVZoEAc
 
 ## How To Run This Project
 
-### Step 1: Clone the Repository
-
 ```bash
 git clone https://github.com/Oladize1/techyJaunt_assignment_four.git
 cd techyJaunt_assignment_four
